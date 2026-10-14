@@ -1,0 +1,194 @@
+window.MANUAIS_SEED = [
+  {
+    "id": "saldos-e-transferencia-para-o-fernando-ml-e-hotmart-diario",
+    "titulo": "SALDOS E TRANSFERÊNCIA PARA O FERNANDO ML E HOTMART (DIÁRIO)",
+    "setor": "FERNANDO BETETI",
+    "prioridade": 1,
+    "descricao": "Rotina diária: conferir saldos do Mercado Livre e Hotmart e transferir para o Fernando.",
+    "passos": [
+      {
+        "titulo": "Acessar o saldo do Mercado Livre",
+        "comentario": "Exemplo: entre em Finanças > Saldo, confira o valor disponível e tire um print da tela com a data visível.",
+        "imagem": ""
+      },
+      {
+        "titulo": "Acessar o saldo da Hotmart",
+        "comentario": "Exemplo: entre em Vendas > Saldo, confira o valor liberado para saque e anexe o print.",
+        "imagem": ""
+      },
+      {
+        "titulo": "Efetuar a transferência para o Fernando",
+        "comentario": "Exemplo: faça a transferência, anexe o comprovante como print deste passo e anote data, valor e conta de destino.",
+        "imagem": ""
+      }
+    ]
+  },
+  {
+    "id": "verificacao-emprestimos-mercado-pago",
+    "titulo": "VERIFICAÇÃO EMPRÉSTIMOS MERCADO PAGO",
+    "setor": "FERNANDO BETETI",
+    "prioridade": 1,
+    "descricao": "",
+    "passos": []
+  },
+  {
+    "id": "precificacao-pelo-sistema-conferencia-de-custos",
+    "titulo": "PRECIFICAÇÃO PELO SISTEMA (CONFERÊNCIA DE CUSTOS)",
+    "setor": "COMERCIAL",
+    "prioridade": 2,
+    "descricao": "",
+    "passos": []
+  },
+  {
+    "id": "assinatura-de-contratos",
+    "titulo": "ASSINATURA DE CONTRATOS",
+    "setor": "ADMINISTRATIVO",
+    "prioridade": 2,
+    "descricao": "",
+    "passos": []
+  },
+  {
+    "id": "suporte-com-webmais",
+    "titulo": "SUPORTE COM WEBMAIS",
+    "setor": "ADMINISTRATIVO",
+    "prioridade": 2,
+    "descricao": "",
+    "passos": []
+  },
+  {
+    "id": "cotacao-frete-facil-e-envios-para-o-ml-full",
+    "titulo": "COTAÇÃO FRETE FÁCIL E ENVIOS PARA O ML FULL",
+    "setor": "COMERCIAL",
+    "prioridade": 2,
+    "descricao": "",
+    "passos": []
+  },
+  {
+    "id": "suporte-a-contabilidade-documentos-solicitados",
+    "titulo": "SUPORTE A CONTABILIDADE (DOCUMENTOS SOLICITADOS)",
+    "setor": "CONTABILIDADE",
+    "prioridade": 2,
+    "descricao": "",
+    "passos": []
+  },
+  {
+    "id": "cadatrar-kits-webmais-e-expedicao",
+    "titulo": "CADATRAR KITS WEBMAIS E EXPEDIÇÃO",
+    "setor": "MARKETING",
+    "prioridade": 2,
+    "descricao": "",
+    "passos": []
+  },
+  {
+    "id": "suporte-faturamento-mercado-livre",
+    "titulo": "SUPORTE FATURAMENTO MERCADO LIVRE",
+    "setor": "EXPEDIÇÃO",
+    "prioridade": 2,
+    "descricao": "",
+    "passos": []
+  },
+  {
+    "id": "demandas-gerais-vendedores",
+    "titulo": "DEMANDAS GERAIS VENDEDORES",
+    "setor": "COMERCIAL",
+    "prioridade": 2,
+    "descricao": "",
+    "passos": []
+  },
+  {
+    "id": "emissao-certificado-digital-e-cpf-e-e-cnpj",
+    "titulo": "EMISSÃO CERTIFICADO DIGITAL (e-CPF E e-CNPJ)",
+    "setor": "ADMINISTRATIVO",
+    "prioridade": 2,
+    "descricao": "",
+    "passos": []
+  },
+  {
+    "id": "acompanhamento-pedidos-fullfilment-hub",
+    "titulo": "ACOMPANHAMENTO PEDIDOS FULLFILMENT (HUB)",
+    "setor": "EXPEDIÇÃO",
+    "prioridade": 2,
+    "descricao": "",
+    "passos": []
+  },
+  {
+    "id": "reprocessamento-de-pagamento-recusado-por-anti-fraude-pagar-",
+    "titulo": "REPROCESSAMENTO DE PAGAMENTO RECUSADO POR ANTI FRAUDE PAGAR.ME",
+    "setor": "COMERCIAL",
+    "prioridade": 2,
+    "descricao": "",
+    "passos": []
+  },
+  {
+    "id": "problemas-com-pedidos-webmais",
+    "titulo": "PROBLEMAS COM PEDIDOS WEBMAIS",
+    "setor": "VENDEDORES/SITE",
+    "prioridade": 3,
+    "descricao": "",
+    "passos": []
+  },
+  {
+    "id": "problemas-pagar-me",
+    "titulo": "PROBLEMAS PAGAR.ME",
+    "setor": "VENDEDORES/SITE",
+    "prioridade": 3,
+    "descricao": "",
+    "passos": []
+  },
+  {
+    "id": "correcoes-notas-fiscais-de-entrada",
+    "titulo": "CORREÇÕES NOTAS FISCAIS DE ENTRADA",
+    "setor": "COMPRAS",
+    "prioridade": 3,
+    "descricao": "",
+    "passos": []
+  },
+  {
+    "id": "correcoes-notas-fiscais-de-saida",
+    "titulo": "CORREÇÕES NOTAS FISCAIS DE SAIDA",
+    "setor": "FATURAMENTO",
+    "prioridade": 3,
+    "descricao": "",
+    "passos": []
+  },
+  {
+    "id": "cotacao-materia-prima-com-fornecedores",
+    "titulo": "COTAÇÃO MATÉRIA PRIMA COM FORNECEDORES",
+    "setor": "ADMINISTRATIVO",
+    "prioridade": 3,
+    "descricao": "",
+    "passos": []
+  },
+  {
+    "id": "atendimento-as-demandas-da-consultoria-milplace-ml",
+    "titulo": "ATENDIMENTO AS DEMANDAS DA CONSULTORIA MILPLACE ML",
+    "setor": "COMERCIAL",
+    "prioridade": 3,
+    "descricao": "",
+    "passos": []
+  },
+  {
+    "id": "suporte-ao-rh-demandas-de-documentos",
+    "titulo": "SUPORTE AO RH (DEMANDAS DE DOCUMENTOS)",
+    "setor": "ADMINISTRATIVO",
+    "prioridade": 3,
+    "descricao": "",
+    "passos": []
+  },
+  {
+    "id": "acompanhamento-e-correcao-de-estoque-lote-e-validade",
+    "titulo": "ACOMPANHAMENTO E CORREÇÃO DE ESTOQUE, LOTE E VALIDADE",
+    "setor": "ESTOQUE/FÁBRICA",
+    "prioridade": 4,
+    "descricao": "",
+    "passos": []
+  },
+  {
+    "id": "registro-de-marcas-inpi",
+    "titulo": "REGISTRO DE MARCAS INPI",
+    "setor": "ADMINISTRATIVO",
+    "prioridade": 4,
+    "descricao": "",
+    "passos": []
+  }
+];
